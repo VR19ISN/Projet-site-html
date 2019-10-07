@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title> La série Pokémon </title>
+  </head>
+<BODY> 
+  <div id="banner1">
+    <p align="center"><font color="red" style="font-size:40px"; face="Georgia Pro Black">Les séries</font></p>
+    </div>
+
+    
+ <div id="menu">
+  <ul>
+    <li><a href="page1.html">Pokémon</a></li>
+    <li><a href="Jeux vidéos.html">Jeux vidéos</a></li>
+    <li><a href="Série.html">Séries</a></li>
+
+  </ul>
+  </div>
+  <div id="banner2">
+    </div>
+    <p align="center"> <FONT COLOR= "black" style="font-size:20px"; FACE="optima, sans serif"> La série télévisée animée Pokémon a été créée au Japon à la suite de la popularité du premier jeu vidéo, et fut diffusée pour la première fois sur TV Tokyo le 1er avril 1997. La série fut introduite à l'étranger à partir de 1998, et fut en grande partie responsable du programme télévisé Kids' WB, sur The CW Television Network. La série continue le concept des jeux vidéo, suivant les aventures de Sacha et son ambition de devenir un jour maître Pokémon. La série est maintenant diffusée sur Canal J, Gulli, M6, MCM et Cartoon Network. Elle connaît à la fin de 2018 sa vingt-deuxième saison51 et son millième épisode fin 2017. Ces vingt-deux saisons peuvent être séparées en six cycles : Pocket Monsters (saisons 1 et 2), Voyage à Johto (saisons 3 à 5), Advanced Generation (saisons 6 à 9), Diamant et Perle (saisons 10 à 13)52, Noir et Blanc (saisons 14 à 16), XY (saisons 17 à 19) et Soleil et Lune (saisons 20 à 22).
+ <br>
+  <br>
+Une série diffusée en parallèle à la série principale, Pokémon Chronicles, est diffusée en tant que spin-off. La majeure partie de la série, diffusée uniquement en Occident, est tirée du Weekly Pokémon Broadcasting Station, qui diffusait ces épisodes spéciaux en même temps qu'était rediffusé l'anime original, depuis octobre 2002.
+ <br>
+  <br>
+Deux téléfilms ont également été diffusés. Ils incluent Le Retour de Mewtwo (Mewtwo Returns) en 2001 et Le Maître des mirages (The Mastermind of Mirage Pokémon) en 2006.
+ <br>
+  <br>
+De plus, vingt longs métrages dérivés de la franchise sont sortis, dont certains uniquement au Japon. Le premier, Pokémon, le film : Mewtwo contre-attaque est sorti en 1998 au Japon et en 2000 en France. Celui-ci fait 2 224 456 entrées au cinéma en France. Tout comme la série animée, les films racontent les aventures du dresseur Sacha et de ses compagnons.
+ <br>
+  <br>
+Le 8 mai 2019 est sorti en France Pokémon : Détective Pikachu, premier film Pokémon en prise de vues réelles.
+</FONT> </p>
+
+<HR>
+ <FONT style="font-size:50px"; FACE="optima, sans serif"><p align="center"><a href="https://www.pokepedia.fr/Type"><IMG SRC="http://www.maitre-pokemongo.fr/wp-content/uploads/2017/01/types-998877.png"></a> </p> </FONT>
+
+  <p align="center"> <FONT COLOR= "Orange" style="font-size:50px"; FACE="Impact"> Les différents types          
+ </FONT> </p>
+
+</BODY>
+  </HTML>
