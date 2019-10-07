@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title> Les jeux Pokémon </title>
+  </head>
+<BODY> 
+  <div id="banner1">
+    <p align="center"><font color="green" style="font-size:40px"; face="Georgia Pro Black">Les jeux</font></p>
+    </div>
+
+    
+ <div id="menu">
+  <ul>
+    <li><a href="page1.html">Pokémon</a></li>
+    <li><a href="Jeux vidéos.html">Jeux vidéos</a></li>
+    <li><a href="Série.html">Séries</a></li>
+
+  </ul>
+  </div>
+  <div id="banner2">
+    </div>
+    <p align="center"> <FONT COLOR= "black" style="font-size:20px"; FACE="optima, sans serif">  La série de jeux vidéo Pokémon, commencée en 1996 au Japon avec Pocket Monsters, contient à ce jour près d'une soixantaine de jeux sortis sur Game Boy, Game Boy Color, Nintendo 64, Game Boy Advance, GameCube, Wii, Nintendo DS, Nintendo 3DS, Wii U et Nintendo Switch. Le premier duo de jeux, Pokémon Rouge et Pokémon Bleu, a été vendu à plus de 30 millions d'exemplaires, ce qui en fait, à l'époque, la seconde meilleure vente.
+      <br>
+       <br>
+L'idée d'un jeu en ligne massivement multijoueur a été évoqué en 2009, néanmoins, Junichi Masuda rappelle que « L'échange est un concept central de Pokémon. Donc, quand vous faites un échange, vous rencontrez un ami et décidez de quel Pokémon vous allez vous échanger réciproquement. Il faut mettre l'accent sur la communication réelle entre les joueurs. Vous ne vous voyez pas quand vous êtes tous deux en ligne », ce qui est incompatible avec le MMO46.
+ <br>
+  <br>
+En octobre 2010, selon les statistiques de Nintendo, la série de jeux vidéo s'est vendue à 215 millions d'exemplaires à travers le monde.
+ <br>
+  <br>
+En juillet 2016 sort le jeu Pokémon Go sur smartphones et tablettes tactiles. Il propose un gameplay adapté au mobile et basé sur une architecture massivement multijoueur. Le jeu demande aux joueurs de rechercher des Pokémon dans le monde réel à l'aide de la géolocalisation. Une fois trouvés, ceux-ci apparaissent sur l'écran en réalité augmentée. Le succès de ce jeu est phénoménal et planétaire : en quelques jours, le jeu devient l'une des applications les plus utilisées (dépassant par exemple le nombre d'utilisateurs quotidiens actifs de Twitter aux États-Unis48).
+ <br>
+  <br>
+Le développement de l'e-sport dans les années 2000 a aussi entraîné avec lui toute la vague Pokémon. Les premiers tournois ont débuté avec la série et nombreuses sont les communautés sur internet qui s'intéressent au métagame complexe des jeux vidéo Pokémon. </FONT> </p>
+
+<HR>
+ <FONT style="font-size:50px"; FACE="optima, sans serif"><p align="center"><a href="https://www.pokepedia.fr/Pokémon_de_départ"><IMG SRC="http://reve-of-manga.r.e.pic.centerblog.net/o/59db9c54.jpg"></a> </p> </FONT>
+
+  <p align="center"> <FONT COLOR= "Orange" style="font-size:50px"; FACE="Impact"> Les starters de chaques générations         
+ </FONT> </p>
+
+</BODY>
+  </HTML>
