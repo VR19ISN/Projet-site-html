@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="style.css" />
+    <title> Pokémon Présenation </title>
+  </head>
+<BODY> 
+  <div id="banner1">
+    <p align="center"><font color="blue" style="font-size:40px"; face="Georgia Pro Black">Pokémon</font></p>
+    </div>
+
+    
+ <div id="menu">
+  <ul>
+    <li><a href="page1.html">Pokémon</a></li>
+    <li><a href="Jeux vidéos.html">Jeux vidéos</a></li>
+    <li><a href="Série.html">Séries</a></li>
+
+  </ul>
+  </div>
+  <div id="banner2">
+    </div>
+    <p align="center"> <FONT COLOR= "black" style="font-size:20px"; FACE="optima, sans serif"> Pokemon, prononcé est une franchise créée par Satoshi Tajiri en 1996, présente en particulier en jeu vidéo, dans des séries éditées par Nintendo. Selon les statistiques de Nintendo en 2010, les jeux Pokémon se sont vendus à environ 250 millions d’unités. Le jeu vidéo Pokémon Rouge et Bleu s’est vendu à plus de 30 millions d’exemplaires, ce qui en fait un record des ventes dans l’histoire du jeu vidéo.
+ <br>
+  <br>
+La franchise est également exploitée sous forme d’anime, de mangas, et de jeux de cartes à collectionner. Dans la série animée homonyme, le personnage principal, Sacha, voyage à travers diverses régions fictives dans le but d’attraper de nouvelles sortes de monstres éponymes, un concept qu’on retrouve également dans les jeux vidéo de la franchise. Pokémon a eu un impact culturel très important dans les pays où il a été introduit, dont le Japon, les États-Unis, le Canada, la France et d'autres pays européens.
+<br>
+ <br>
+Le nom Pokémon est issu de la contraction de Poketto Monsutā, romanisation du japonais traduisant l'anglais Pocket Monsters. Le terme Pokémon, en plus de référer à la franchise Pokémon elle-même, réfère aussi collectivement aux 829 espèces fictionnelles réparties en huit générations Pokémon. Pokémon est identique au singulier et au pluriel, comme dans chaque nom d'une espèce. 
+<br>
+ <br>
+Dans l'univers des PokémonN , les animaux du monde réel n'existent pas (ou très peu). Le monde est peuplé de Pokémon, des créatures qui vivent en harmonie avec les humains, mais possèdent des aptitudes quasiment impossibles pour des animaux du monde réel, telles que cracher du feu, comme Dracaufeu, ou encore générer de grandes quantités d'électricité, comme Magnéti. Chaque sorte de Pokémon possède un nom, qui peut à la fois être utilisé pour parler de Pokémon individuels ou de l'ensemble des Pokémon de la même sorte. Certains Pokémon dits « légendaires » sont les seuls représentants de leur sorte et dans les jeux récents sont des entités incarnant une puissance naturelle. Dans la série animée, les Pokémon ne peuvent prononcer en règle générale que leur nomN 3, mais il existe quelques cas rares où des Pokémon ont appris un langage humain. Des humains utilisent ces aptitudes dans leurs activités professionnelles : ainsi les Caninos de l'Agent Jenny l'aident à poursuivre les criminels.
+<br>
+ <br>
+Certains dressent les Pokémon pour organiser des combats entre eux, transportant généralement les Pokémon dans des Poké Balls, des balles compactes où un Pokémon peut être contenu.Les matchs Pokémon consistent en combats entre les Pokémon de deux dresseurs, et se terminent quand tous les Pokémon de l'un d'entre eux sont KO. La mort des Pokémon est donc évitée, et les Pokémon peuvent être soignés au Centre Pokémon, un bâtiment où les infirmières guérissent les Pokémon blessés. Pour participer à des compétitions, les dresseurs peuvent se déplacer aux différentes Arènes Pokémon où un badge leur est offert s'ils sortent victorieux d'un match contre le champion d'arène9. Après avoir gagné tous les badges de la région, un dresseur peut partir au siège de la Ligue Pokémon pour affronter quatre dresseurs d'élite, souvent appelés le « Conseil des 4 ». Ce n'est qu'après avoir battu ces quatre dresseurs que le dresseur peut affronter le Maître de la Ligue.
+<br>
+ <br>
+Il existe dix-huit types. Chaque Pokémon possède un ou deux types qui conditionnent la plupart de ses attaques et caractérisent ses forces et ses faiblesses vis-à-vis des autres types, organisées comme le pierre-papier-ciseaux pour équilibrer les combats. </FONT> </p>
+
+<HR>
+ <FONT style="font-size:50px"; FACE="optima, sans serif"><p align="center"><a href="https://www.pokepedia.fr/Génération"><IMG SRC="https://lightningamer.com/wp-content/uploads/2016/11/Pokemon-Stars.jpg"></a> </p> </FONT>
+
+  <p align="center"> <FONT COLOR= "Orange" style="font-size:50px"; FACE="Impact"> Toutes les générations         
+ </FONT> </p>
+
+</BODY>
+  </HTML>
